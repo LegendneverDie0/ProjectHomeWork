@@ -1,0 +1,36 @@
+.bor{
+    border-collapse: collapse;
+}
+.suka{
+    text-align: center;
+    background-color: rgb(200, 140, 255);
+    border-radius: 10px;
+    border: 5px solid red;
+}
+.a{
+    color: rgb(0, 98, 0);
+}
+.b{
+    color: red;
+}
+.d{
+color: yellow;
+}
+.c{
+color: green;
+}
+.e{
+color: gray;
+}
+.bot{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}
+table{
+    border-collapse: collapse;
+}
+.boni{
+background-color: red;
+color: black;
+}
